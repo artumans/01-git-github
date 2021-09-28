@@ -1,2 +1,2 @@
 # 01-git-github
-isi pertama github
+Tugas Petunjuk Praktik Github
