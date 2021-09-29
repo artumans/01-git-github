@@ -19,7 +19,7 @@ clone repo adalah, menduplicate repo yang ada di github dan akan tersimpan di ko
 
 ![image](https://user-images.githubusercontent.com/91442260/135291283-38e775b4-ab5d-4a7c-a371-c3fe5d8d5633.png)
 
-pilih *open with github desktop* Ppastikan anda punya [*Link Download*](https://desktop.github.com/)
+pilih *open with github desktop* Pastikan anda punya [*Link Download*](https://desktop.github.com/)
 
 2. Nanti tampilan seperti ini
 ![image](https://user-images.githubusercontent.com/91442260/135292361-ce956cdb-b2fe-4af5-8ac7-c6b69643cf64.png)
