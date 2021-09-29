@@ -24,7 +24,7 @@ pilih *open with github desktop* Ppastikan anda punya [*Link Download*](https://
 2. Nanti tampilan seperti ini
 ![image](https://user-images.githubusercontent.com/91442260/135292361-ce956cdb-b2fe-4af5-8ac7-c6b69643cf64.png)
 
-Anda dapat merubah tempat anda akan meyimpan clone dari repo tadi
+Anda dapat merubah tempat meyimpan clone dari repo tadi
 
 
 
