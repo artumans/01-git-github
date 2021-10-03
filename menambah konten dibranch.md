@@ -1,2 +1,2 @@
 1. belajar android studio 
-2. 
+2. belajar kotlin 
